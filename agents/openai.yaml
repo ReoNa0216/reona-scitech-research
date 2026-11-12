@@ -1,0 +1,4 @@
+interface:
+  display_name: "ReoNa 科学与技术调研"
+  short_description: "跨实验、计算与工程的深入调研：证据精读、资源补件、方法比较及图文报告"
+  default_prompt: "请使用 $reona-scitech-research，围绕当前科学或技术问题核读文献与补充资料，比较证据、方法和适用条件，并按需要交付清楚的图文报告。"
